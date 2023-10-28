@@ -25,5 +25,5 @@ Mungkin ini bisa jadi tidak 100% akurat, namun bisa digunakan sebagai langkah aw
 * HDD/SSD tidak terdetect / tidak terbaca
     * cek PSU hidup/mati -done
     * cek kabel power PSU -done
-    * periksa kabel, konektor, port yang mengarah dari PSU ke HDD/SSD
-    * perikas kabel, konektor, port yang mengarah dari PSU ke MoBo
+    * periksa kabel, konektor, port yang mengarah dari PSU ke HDD/SSD -done
+    * perikas kabel, konektor, port yang mengarah dari PSU ke MoBo -done
