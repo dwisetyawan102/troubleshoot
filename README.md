@@ -15,7 +15,7 @@ Mungkin ini bisa jadi tidak 100% akurat, namun bisa digunakan sebagai langkah aw
     * periksa kipas menyala atau tidak
     * periksa kabel, konektor, port kipas CPU -done
     * periksa kabel, konektor, port ATX Power (yang mengarah dari PSU) -done
-    * periksa RAM, lepas RAM, bersihkan RAM -done
+    * periksa RAM, lepas RAM, bersihkan RAM, pasang RAM -done
     * periksa kabel, konektor, port yang mengarah ke/dari HDD/SSD -done
     * lepas konektor yang mengarah ke/dari HDD/SSD, bersihkan, pasang lagi -done
 * HDD/SSD lemot
