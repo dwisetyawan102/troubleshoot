@@ -16,8 +16,8 @@ Mungkin ini bisa jadi tidak 100% akurat, namun bisa digunakan sebagai langkah aw
     * periksa kabel, konektor, port kipas CPU -done
     * periksa kabel, konektor, port ATX Power (yang mengarah dari PSU) -done
     * periksa RAM, lepas RAM, bersihkan RAM, pasang RAM -done
-    * periksa kabel, konektor, port yang mengarah ke/dari HDD/SSD -done
-    * lepas konektor yang mengarah ke/dari HDD/SSD, bersihkan, pasang lagi -done
+    * periksa kabel, konektor, port yang mengarah dari MoBo ke HDD/SSD -done
+    * lepas konektor yang mengarah dari MoBo ke HDD/SSD, bersihkan, pasang lagi -done
 * HDD/SSD lemot
     * periksa kapasitas, penuh/tidak -done
     * cek spek PC/laptop -done
@@ -25,5 +25,5 @@ Mungkin ini bisa jadi tidak 100% akurat, namun bisa digunakan sebagai langkah aw
 * HDD/SSD tidak terdetect / tidak terbaca
     * cek PSU hidup/mati -done
     * cek kabel power PSU -done
-    * periksa kabel, konektor, port yang mengarah dari PSU ke hardisk
+    * periksa kabel, konektor, port yang mengarah dari PSU ke HDD/SSD
     * perikas kabel, konektor, port yang mengarah dari PSU ke MoBo
