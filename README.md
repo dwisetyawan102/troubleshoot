@@ -1,7 +1,7 @@
 # troubleshoot 
 Mungkin ini bisa jadi tidak 100% akurat, namun bisa digunakan sebagai langkah awal diagnosis pada masalah yang dihadapi
 <br />
-* Monitor no display (lampu LED indikator mati / tidak menyala hitam / tidak menampilkan tulisan atau icon-icon tertentu sama sekali)
+* Monitor no display (lampu LED indikator mati, atau tidak menyala hitam, atau tidak menampilkan tulisan / icon-icon tertentu sama sekali)
     * periksa kabel power monitor -done
     * lepas kebel power monitor dari LCD atau stopcontact, colokan lagi -done
 * Monitor no display (lampu LED indikator menyala monitor menyala tapi hitam / hanya menampilkan tulisan atau icon-icon tertentu saja)
