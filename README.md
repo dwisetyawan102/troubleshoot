@@ -4,7 +4,7 @@ Mungkin ini bisa jadi tidak 100% akurat, namun bisa digunakan sebagai langkah aw
 * Monitor no display (lampu LED indikator mati, atau tidak menyala hitam, atau tidak menampilkan tulisan / icon-icon tertentu sama sekali)
     * periksa kabel power monitor -done
     * lepas kebel power monitor dari LCD atau stopcontact, colokan lagi -done
-* Monitor no display (lampu LED indikator menyala monitor menyala tapi hitam / hanya menampilkan tulisan atau icon-icon tertentu saja)
+* Monitor no display (lampu LED indikator menyala, monitor menyala tapi hitam / hanya menampilkan tulisan atau icon-icon tertentu saja)
     * periksa kabel VGA / HDMI -done
     * lepas kebel VGA / HDMI dari LCD, colokan lagi -done
     * lepas kabel VGA / HDMI dari CPU, colokan lagi -done
