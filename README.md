@@ -27,3 +27,5 @@ Mungkin ini bisa jadi tidak 100% akurat, namun bisa digunakan sebagai langkah aw
     * cek kabel power PSU -done
     * periksa kabel, konektor, port yang mengarah dari PSU ke HDD/SSD -done
     * perikas kabel, konektor, port yang mengarah dari PSU ke MoBo -done
+* bootable flashdisk tidak terdetect adanya sistem operasi saat akan innul (biasanya win7 untuk laptop/PC lawas) 
+    * saat membuat bootable OS menggunakan rufus, ganti GPT menjadi MBR
