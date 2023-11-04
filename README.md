@@ -28,5 +28,5 @@ Mungkin ini bisa jadi tidak 100% akurat, namun bisa digunakan sebagai langkah aw
     * periksa kabel, konektor, port yang mengarah dari PSU ke HDD/SSD -done
     * perikas kabel, konektor, port yang mengarah dari PSU ke MoBo -done
 * bootable flashdisk tidak terdetect adanya sistem operasi saat akan innul 
-    * saat membuat bootable OS menggunakan rufus, ganti GPT menjadi MBR <br />
+    * saat membuat bootable OS menggunakan rufus, ganti GPT menjadi MBR (biasanya untuk laptop/PC lawas) <br />
     * bisa juga mengganti mode BIOS dari legacy menjadi UEFI
